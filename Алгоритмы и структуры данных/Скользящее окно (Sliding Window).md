@@ -69,7 +69,7 @@
 
 |Название задачи|Уровень|Ссылка на LeetCode|Почему подходит|
 |---|---|---|---|
-|485. Max Consecutive Ones | 🟢 Easy |ссылка| База sliding window: Проходим по массиву, увеличиваем окно пока видим 1, закрываем при 0 и записываем длину.|
+|485. Max Consecutive Ones | 🟢 Easy |[ссылка](https://leetcode.com/problems/max-consecutive-ones/description/)| База sliding window: Проходим по массиву, увеличиваем окно пока видим 1, закрываем при 0 и записываем длину.|
 |**3. Longest Substring Without Repeating Characters**|🟠 Medium|[ссылка](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Классика: сужаем окно при появлении повтора|
 |**209. Minimum Size Subarray Sum**|🟠 Medium|[ссылка](https://leetcode.com/problems/minimum-size-subarray-sum/)|Ищем минимальную длину, сужаем окно, когда сумма ≥ target|
 |**424. Longest Repeating Character Replacement**|🟠 Medium|[ссылка](https://leetcode.com/problems/longest-repeating-character-replacement/)|Окно валидно, пока количество замен ≤ K|
