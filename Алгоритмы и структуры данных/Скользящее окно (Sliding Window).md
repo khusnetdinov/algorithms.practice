@@ -120,9 +120,6 @@
 
 | Название задачи                                  | Уровень   | Ссылка на LeetCode                                                              | Почему подходит                                           |
 | ------------------------------------------------ | --------- | ------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **604. Design Compressed String Iterator**       | 🟢 Easy   | [ссылка](https://leetcode.com/problems/design-compressed-string-iterator/)      | Итератор с хранением текущего состояния                   |
-| **346. Moving Average from Data Stream**         | 🟢 Easy   | [ссылка](https://leetcode.com/problems/moving-average-from-data-stream/)        | Классическое скользящее среднее в потоковом режиме        |
-| **487. Max Consecutive Ones II**                 | 🟠 Medium | [ссылка](https://leetcode.com/problems/max-consecutive-ones-ii/)                | Можно заменить один ноль — храним позицию последнего нуля |
 | **2661. Determine the Winner of a Bowling Game** | 🟠 Medium | [ссылка](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | Бонус, если в одном из двух предыдущих бросков был страйк |
 
 ---
