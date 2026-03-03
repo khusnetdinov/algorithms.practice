@@ -62,7 +62,6 @@
 | **9. Palindrome Number**             | 🟢 Easy   | [ссылка](https://leetcode.com/problems/palindrome-number/)             | Проверка числа на палиндром (можно через строку или математически).                  |
 | **234. Palindrome Linked List**      | 🟢 Easy   | [ссылка](https://leetcode.com/problems/palindrome-linked-list/)        | Комбинация: быстрый/медленный для поиска середины + два указателя для сравнения.     |
 | **680. Valid Palindrome II**         | 🟢 Easy   | [ссылка](https://leetcode.com/problems/valid-palindrome-ii/)           | Можно удалить один символ — нужно проверить оба варианта при первом несовпадении.    |
-| **266. Palindrome Permutation**      | 🟢 Easy   | [ссылка](https://leetcode.com/problems/palindrome-permutation/)        | Можно ли переставить символы так, чтобы получить палиндром.                          |
 | **409. Longest Palindrome**          | 🟢 Easy   | [ссылка](https://leetcode.com/problems/longest-palindrome/)            | Построить максимально длинный палиндром из заданных символов.                        |
 | **5. Longest Palindromic Substring** | 🟠 Medium | [ссылка](https://leetcode.com/problems/longest-palindromic-substring/) | Поиск палиндромной подстроки (расширение от центра — тоже вариация двух указателей). |
 | **647. Palindromic Substrings**      | 🟠 Medium | [ссылка](https://leetcode.com/problems/palindromic-substrings/)        | Подсчет всех палиндромных подстрок (расширение от центра).                           |
