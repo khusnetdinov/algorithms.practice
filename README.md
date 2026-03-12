@@ -23,5 +23,12 @@
 * [Спринт 7 (Жадные алгоритмы и динамическое программирование)](Практикум%20аналоги%20на%20leetcode/Спринт%207%20(Жадные%20алгоритмы%20и%20динамическое%20программирование).md)
 * [Спринт 8 (Алгоритмы на строках)](Практикум%20аналоги%20на%20leetcode/Спринт%208%20(Алгоритмы%20на%20строках).md)
 
- Завершение: [Подготовка к алгоритмическому собеседованию от Яндекс.Практикум](https://start.practicum.yandex/algorithms-interview/)
+ Подготовка к собеседованию:
+ - [Подготовка к алгоритмическому собеседованию от Яндекс.Практикум](https://start.practicum.yandex/algorithms-interview/)
+ - [Топ 150 задач для подготовки к интервью](https://leetcode.com/studyplan/top-interview-150/)
+ - ["Must-do problem list for interview prep"](https://leetcode.com/studyplan/leetcode-75/)
+ - [Топ 100](https://leetcode.com/studyplan/top-100-liked/)
 
+ 
+Матчасть:
+- https://leetcode.com/explore/learn/
